@@ -5,8 +5,7 @@
 
 ```javascript
   async user.index({
-    name: 'DaanKrug',
-    age: 35,
+    name: 'Daniel Augusto Krug',
     city: 'Indaial, SC',
     stack: ["Angular","HTML","CSS","Javascript","Java","PHP","Elixir","Elixir/Erlang/OTP","MySQL/Maria DB"]
   });
@@ -15,5 +14,5 @@
 ```
 <hr>
 <h1 align="center">
-<img alt="DaanKrug" src="https://github-readme-stats.codestackr.vercel.app/api?username=DaanKrugs&show_icons=true&hide_border=true&theme=dark" />
+<img alt="DaanKrug" src="https://github-readme-stats.codestackr.vercel.app/api?username=DaanKrug&show_icons=true&hide_border=true&theme=blue" />
 </h1>
