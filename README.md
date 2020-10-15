@@ -1,8 +1,7 @@
-# Daniel Augusto Krug, Software Engineer - Full Stack Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Daniel Augusto Krug, Software Engineer - Full Stack Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/daniel-krug-427646b9/)](https://www.linkedin.com/in/daniel-krug-427646b9/)
-
-[![Me Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.skallerten.com.br/)](https://www.skallerten.com.br/)
+[![Me Badge](https://img.shields.io/badge/-Me-blue?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.skallerten.com.br/)](https://www.skallerten.com.br/)
 
 
 ```Elixir
