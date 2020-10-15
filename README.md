@@ -5,7 +5,7 @@
 
 ```javascript
   async user.index({
-    name: 'Daniel Augusto Krug',
+    name: 'DaanKrug',
     age: 35,
     city: 'Indaial, SC',
     stack: ["Angular","HTML","CSS","Javascript","Java","PHP","Elixir","Elixir/Erlang/OTP","MySQL/Maria DB"]
