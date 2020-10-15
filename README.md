@@ -3,14 +3,21 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/daniel-krug-427646b9/)](https://www.linkedin.com/in/daniel-krug-427646b9/)
 [![Personal-Site Badge](https://img.shields.io/badge/-Personal--Site-blue?style=flat-square&logo=Personal-Site&logoColor=white&color=blue&link=https://www.skallerten.com.br/)](https://www.skallerten.com.br/)
 
-```javascript
-  async user.index({
-    name: 'Daniel Augusto Krug',
-    city: 'Indaial, SC',
-    stack: ["Angular","HTML","CSS","Javascript","Java","PHP","Elixir","Elixir/Erlang/OTP","MySQL/Maria DB"]
-  });
-  
-  return response.status(201).send();
+```Elixir
+
+   @content_type  "application/json"
+   
+   me = %{
+           name: "Daniel Augusto Krug",
+           role: "Full Stack",
+           responsabilities: ["Software Engineer","System Analyst","Full Stack Developer"],
+           actuallyWorkingWhit: ["Angular","HTML","CSS","Javascript","PHP","Elixir","Elixir/Erlang/OTP","MySQL/Maria DB"]
+         }
+   
+   conn
+     |> put_resp_content_type(@content_type)
+     |> send_resp(200, Poison.encode!(me))
+   
 ```
 <hr>
 <h1 align="center">
