@@ -12,7 +12,8 @@
            name: "Daniel Augusto Krug",
            role: "Full Stack",
            responsabilities: ["Software Engineer","System Analyst","Full Stack Developer"],
-           actuallyWorkingWhit: ["Angular","HTML","CSS","Javascript","PHP","Elixir","Elixir/Erlang/OTP","MySQL/Maria DB"]
+           actuallyWorkingWhit: ["Angular","HTML","CSS","Javascript","PHP",
+                                 "Elixir","Elixir/Erlang/OTP","MySQL/Maria DB"]
          }
    
    conn
